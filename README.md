@@ -48,7 +48,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Purview](https://github.com/karthikv/purview). JavaScript (Node.js). "A server-side component framework. What if your React components ran on the server-side?"
 * [Nanoweb](https://nanoweb.js.org/). TypeScript (Node.js). "Minimal library for building server-centric multi page web applications that behave like SPAs"
 * [ts-liveview](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Build hybrid SSG and SSR realtime SPA/MPA with Typescript"
-
+* [BunLive](https://github.com/jaspersmitNL/BunLive). TypeScript LiveView system built for Bun
 ### Kotlin
 
 * [Kweb](http://docs.kweb.io/). "A new way to create beautiful, efficient, and scalable websites in Kotlin"
